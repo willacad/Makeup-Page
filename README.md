@@ -1,2 +1,2 @@
-# Training-repository
-Repository for initial training projects.
+# Makeup-page
+Initial training project.
