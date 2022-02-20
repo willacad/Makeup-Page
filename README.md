@@ -1,2 +1,2 @@
 # Makeup-page
-Initial training project.
+training project.
